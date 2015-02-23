@@ -1,0 +1,19 @@
+{
+    "title": "No Fade",
+    "name": "No Fade",
+    "description": "Disable fading of inactive window in split view.",
+    "version": "0.0.1",
+    "author": "Henry LaVoo <design@henrylavoo.com> (http://henrylavoo.com/)",
+  "homepage": "https://github.com/henrylavoo/BracketsNoFadeViewPane",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/henrylavoo/BracketsNoFadeViewPane"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "files": [
+      "main.js",
+      "main.less"
+    ]
+}
