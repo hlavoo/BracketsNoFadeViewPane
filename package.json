@@ -1,6 +1,6 @@
 {
     "title": "No Fade in Split View",
-    "name": "No Fade in Split View",
+    "name": "no-fade-in-split-view",
     "description": "Disable fading of inactive window in split view.",
     "version": "0.0.1",
     "author": "Henry LaVoo <design@henrylavoo.com> (http://henrylavoo.com/)",
